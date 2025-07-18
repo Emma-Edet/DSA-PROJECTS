@@ -26,5 +26,4 @@ that could influence the overall growth of the company.
 - Microsoft Excel
 - SQL Server Management Studio
 
-#### Analysis
 
