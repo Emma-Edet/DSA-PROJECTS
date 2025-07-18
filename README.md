@@ -19,7 +19,7 @@ will help both the analyst and stakeholders make key decisions
 that could influence the overall growth of the company.
 
 #### Data Sources
-- AMAZON Case Study File .xlss
+- AMAZON Case Study File .xlsx
 - KMS_SQL File and Order Status .csv
 
 #### Tools Used
