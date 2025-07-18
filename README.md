@@ -25,3 +25,6 @@ that could influence the overall growth of the company.
 #### Tools Used
 - Microsoft Excel
 - SQL Server Management Studio
+
+#### Analysis
+
