@@ -1,7 +1,7 @@
 ## DSA-PROJECTS
 
 ### PROJECT TOPIC : 
-AMAZON AND KMS CASE STUDIES
+AMAZON CASE STUDY
 
 #### PROJECT OVERVIEW :
 In this Data Analysis Project in the AMAZON Case Study
